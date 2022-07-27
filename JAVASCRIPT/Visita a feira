@@ -1,0 +1,10 @@
+//Desafio Visita a feira//
+
+let line = gets().split(' '); 
+let A = parseInt(line[0]);
+let B = parseInt(line[1]);
+let X = A + B
+//TODO: Complete os espaços em branco com uma possível solução para o desafio
+
+let total = X;
+console.log("X = " + total);
